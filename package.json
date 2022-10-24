@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "revisao node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tttttteste"
+  },
+  "keywords": [
+    "multer"
+  ],
+  "author": "Luizzin_prata",
+  "license": "MIT"
+}
